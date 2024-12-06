@@ -1,2 +1,0 @@
-C:\Users\User\source\repos\SOLID code\x64\Debug\SOLID code.exe.lastcodeanalysissucceeded
-C:\Users\User\source\repos\SOLID code\SOLID code\x64\Debug\NativeCodeAnalysis.read.1.tlog
